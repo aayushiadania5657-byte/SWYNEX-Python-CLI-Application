@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Complete SWYNEX internship task",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "Prepare internship submission",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "title": "Build Python project",
+        "completed": false
+    }
+]

@@ -30,7 +30,7 @@ SWYNEX-Python-CLI-Application/
 │
 ├── main.py
 ├── task_manager.py
-├── validators.py
+├── Validator.py
 ├── storage.py
 ├── tasks.json
 ├── .gitignore
